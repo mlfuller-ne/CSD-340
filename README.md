@@ -1,5 +1,9 @@
-# csd-340
-WEB 340 Web Development with HTML and CSS
+# CSD 340 Web Development with HTML and CSS
+## Contributors
+* Professor Matt Longley
+* Marlene Fuller
+
+
 Bellevue University
 Address: 1000 Galvin Rd S, Bellevue, Nebraska 68005 
 
